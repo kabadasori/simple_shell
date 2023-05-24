@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+ * this project id done by kabada and badasa
  * interactive - returns true if shell is interactive mode
  * @info: struct address
  *
